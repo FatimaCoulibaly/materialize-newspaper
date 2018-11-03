@@ -6,15 +6,20 @@ body {background-color: lavender;
 	font-family: 'Aref ruqaa'serif;
 	font-size: 50px;
 	text-shadow: 4px 2px 1px purple;
-}
-h1 {
-	color: green;
-	font-size: 50px;
+	margin left: 50%;
+	margin right: 50%;
+	margin top: 50%;
+	margin bottom: 50%;
+	text-align: center;
+	}
+
+h4 {
+	color: black;
+	font-size: 30px;
 	margin-left: 30px;
-	font-family: 'Chicle', cursive;
+	text-align: left;
+	font-family: 'Aref', Ruqaa;
 }
-
-
 
 img {
 	height: 10%;
@@ -22,8 +27,6 @@ img {
 	margin-left: 10px;
 }
 
-
-}
 
 li {
 	display: inline;
